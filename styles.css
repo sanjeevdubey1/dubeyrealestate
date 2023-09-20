@@ -12,6 +12,9 @@ header {
     color: #fff;
     padding: 20px 0;
 }
+.logo{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
 nav {
     display: flex;
@@ -25,8 +28,8 @@ nav {
 nav ul {
     list-style-type: none;
     display: flex;
-    gap: 100px;
-    margin-right: 50px;
+    gap: 50px;
+    /* margin-right: 50px; */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -49,6 +52,7 @@ nav a {
     font-size: 36px;
     margin: 0;
     color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .hero p {
@@ -76,6 +80,7 @@ nav a {
 .property-listings h2 {
     font-size: 24px;
     margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .property-list {
@@ -92,6 +97,7 @@ nav a {
     padding: 10px;
     background-color: #fff;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .property-card img {
@@ -113,11 +119,13 @@ nav a {
 .about {
     text-align: center;
     padding: 40px 0;
+    font-family:Arial, Helvetica, sans-serif ;
 }
 
 .about h2 {
     font-size: 24px;
     margin-bottom: 20px;
+   
 }
 
 .about p {
@@ -129,6 +137,7 @@ nav a {
 .contact {
     text-align: center;
     padding: 40px 0;
+    font-family:Arial, Helvetica, sans-serif ;
 }
 
 .contact h2 {
